@@ -21,7 +21,8 @@ I am a B.Tech Information Technology student passionate about programming, probl
 ## 🏆 Coding Platforms
 
 ### HackerRank
-- 👨‍💻 Profile:https://www.hackerrank.com/surendar_05
+- 👨‍💻Profile:
+https://www.hackerrank.com/surendar_05
 
 
 - 📜 Python (Basic) Certificate: https://www.hackerrank.com/certificates/b28
