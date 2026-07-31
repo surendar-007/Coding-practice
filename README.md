@@ -25,7 +25,7 @@ I am a B.Tech Information Technology student passionate about programming, probl
 https://www.hackerrank.com/surendar_05
 
 
-- 📜 Python (Basic) Certificate: https://www.hackerrank.com/certificate/b283b2f764fb
+- 📜 Python (Basic) Certificate: https://www.hackerrank.com/certificates/b283b2f764fb
 - ⭐ Python Badge: 3★ Silver
 
 
