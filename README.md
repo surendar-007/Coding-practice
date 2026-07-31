@@ -1,4 +1,4 @@
-# 💻 Coding Practice
+## 💻 Coding Practice
 
 Welcome to my coding practice repository! This repository documents my journey of improving programming skills through problem solving, data structures & algorithms, coding platform challenges, and technical certifications.
 
@@ -25,8 +25,7 @@ I am a B.Tech Information Technology student passionate about programming, probl
 https://www.hackerrank.com/surendar_05
 
 
-- 📜 Python (Basic) Certificate: https://www.hackerrank.com/certificates/b28
-3b2f764fb
+- 📜 Python (Basic) Certificate: https://www.hackerrank.com/certificate/b283b2f764fb
 - ⭐ Python Badge: 3★ Silver
 
 
